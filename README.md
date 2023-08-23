@@ -1,6 +1,6 @@
 # 无相助手
 
-![无相PRD](/images/formless_prd.png)
+![无相PRD](/images/consulting.png)
 
 ## 主题
 一款对话助理，类似咨询顾问，能像一位来自世界顶尖的战略和技术咨询公司，为创业者提供咨询服务。
